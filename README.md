@@ -33,7 +33,7 @@ You are done..
 
 Here is the URL to point to our site:    
 https://hyipworld.github.io/    
-https://www.hyip.world/    
+http://www.hyip.world/    
 
 
 See more details about Github & Jeckyll here:    
