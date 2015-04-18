@@ -17,7 +17,7 @@ Create repository for the template: "YOUR-ORGANIZATION.github.io":
 https://help.github.com/articles/getting-started-with-github-for-windows/
 
 Download the installer & Devkit for Ruby and setup Jeckyill    
-http://jekyll-windows.juthilo.com/1-ruby-and-devkit/
+http://jekyll-windows.juthilo.com/1-ruby-and-devkit/    
 http://martinbuberl.com/blog/setup-jekyll-on-windows-and-host-it-on-github-pages/    
 
 Tweak how you want the site URLs to look follow guidance here:    
