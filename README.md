@@ -29,7 +29,8 @@ You are done..
 
 
 
-See more details here:
-Concept: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
-Github Repository: https://github.com/mojombo/tpw
+
+See more details here:    
+Concept: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html    
+Github Repository: https://github.com/mojombo/tpw    
 Site Online: http://tom.preston-werner.com
