@@ -1,5 +1,6 @@
 # Hyip World
-hyipworld.github.io
+
+We start our documentation by a tutorial how we start to get our site up and running on Github.
 
 Open Github account here:    
 https://github.com/join
@@ -26,12 +27,16 @@ http://jekyllrb.com/docs/structure/
 Sync the template to Github then point your browser to:    
 https://YOUR-ORGANIZATION.github.io
 
-You are done..
+
+You are done..    
 
 
+Here is the URL to point to our site:    
+https://hyipworld.github.io/    
+https://www.hyip.world/    
 
 
-See more details about Github & Jeckyll here:
+See more details about Github & Jeckyll here:    
 Github Repository of Jeckyll: https://github.com/mojombo/tpw    
 Concept: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html    
 Site of Jeckyll Author, Tom Preston-Werner, GitHub's co-founder.: http://tom.preston-werner.com
