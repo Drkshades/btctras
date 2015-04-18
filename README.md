@@ -25,7 +25,7 @@ Tweak how you want the site URLs to look follow guidance here:
 http://jekyllrb.com/docs/structure/
 
 Sync the template to Github then point your browser to:    
-https://YOUR-ORGANIZATION.github.io
+`https://YOUR-ORGANIZATION.github.io`
 
 
 You are done..    
