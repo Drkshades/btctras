@@ -31,7 +31,7 @@ You are done..
 
 
 
-See more details here:    
+See more details about Github & Jeckyll here:
+Github Repository of Jeckyll: https://github.com/mojombo/tpw    
 Concept: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html    
-Github Repository: https://github.com/mojombo/tpw    
-Site Online: http://tom.preston-werner.com
+Site of Jeckyll Author, Tom Preston-Werner, GitHub's co-founder.: http://tom.preston-werner.com
