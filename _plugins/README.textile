@@ -1,6 +1,6 @@
 h1. Jekyll Plugins
 
-See the background of our instalation of plugins on our project documentation "*here*":https://github.com/hyipworld/hyipworld.github.io/wiki/Jekyll-Plugins.
+See the background of our instalation of plugins on our project documentation "here":https://github.com/hyipworld/hyipworld.github.io/wiki/Jekyll-Plugins.
 
 h2. Delicious
 
