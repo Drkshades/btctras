@@ -26,11 +26,9 @@ http://jekyllrb.com/docs/structure/
 Commit the template to Github    
 http://martinbuberl.com/blog/setup-jekyll-on-windows-and-host-it-on-github-pages/    
 
-`
     git add --all    
     git commit -m "Initial commit"    
-    git push "origin" master:master    
-`
+    git push "origin" master:master
 
 Point your browser to:    
 `https://YOUR-ORGANIZATION.github.io`
