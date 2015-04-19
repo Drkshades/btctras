@@ -23,13 +23,13 @@ http://jekyll-windows.juthilo.com/1-ruby-and-devkit/
 Tweak how you want the site URLs to look follow guidance here:    
 http://jekyllrb.com/docs/structure/
 
-Commit the template to Github
+Commit the template to Github    
 http://martinbuberl.com/blog/setup-jekyll-on-windows-and-host-it-on-github-pages/    
 
 `
-git add --all
-git commit -m "Initial commit"
-git push "origin" master:master
+git add --all    
+git commit -m "Initial commit"    
+git push "origin" master:master    
 `
 
 Point your browser to:    
