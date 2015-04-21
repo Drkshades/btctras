@@ -45,7 +45,8 @@ http://www.hyip.world/
 See more details about Github & Jeckyll here:    
 Github Repository of Jeckyll: https://github.com/mojombo/tpw    
 Concept: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html    
-Site of Jeckyll Author, Tom Preston-Werner, GitHub's co-founder.: http://tom.preston-werner.com    
+Site of Jeckyll Author, Tom Preston-Werner, GitHub's co-founder.: http://tom.preston-werner.com
 
+***
 
 [*What next..*](https://github.com/hyipworld/hyipworld.github.io/wiki)
