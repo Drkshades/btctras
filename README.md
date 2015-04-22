@@ -49,4 +49,4 @@ Site of Jeckyll Author, Tom Preston-Werner, GitHub's co-founder.: http://tom.pre
 
 ***
 
-[What next..](https://github.com/hyipworld/hyipworld.github.io/wiki)
+[What Next..](https://github.com/hyipworld/hyipworld.github.io/wiki)
