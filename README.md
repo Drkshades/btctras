@@ -50,4 +50,4 @@ Concept: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
 Site of Jeckyll Author, Tom Preston-Werner, GitHub's co-founder.: http://tom.preston-werner.com
 ***
 |[:arrow_backward: Prev](https://github.com/hyip/info)|[Next :arrow_forward:](https://github.com/hyipworld/hyipworld.github.io/wiki)|
-|:----||----:|
+|:----|----:|
