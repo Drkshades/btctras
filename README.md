@@ -35,6 +35,9 @@ http://martinbuberl.com/blog/setup-jekyll-on-windows-and-host-it-on-github-pages
 Point your browser to:    
 `https://YOUR-ORGANIZATION.github.io`
 
+Set up your custom domain follow this documentation:
+https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
+
 
 You are done..    
 
