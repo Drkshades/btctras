@@ -43,7 +43,7 @@ You are done..
 
 
 Here is the URL to point to our site:    
-https://hyipworld.github.io/    
+http://hyipworld.github.io/    
 http://www.hyip.world/    
 http://hyip.world/  
 
