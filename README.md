@@ -37,7 +37,7 @@ Point your browser to:
 
 Set up your custom domain follow this documentation:  
 https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
-
+http://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages
 
 You are done..    
 
