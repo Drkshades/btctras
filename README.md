@@ -7,7 +7,7 @@ We start our documentation by a tutorial how we start to get our site up and run
 Open Github account here:    
 https://github.com/join
 
-Create an new organization here:     
+Create a new organization here:     
 https://github.com/organizations/new
 
 Install Github from Windows, get it here:    
