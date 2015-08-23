@@ -495,6 +495,17 @@ a:hover .social-icon-rss {
     background: url('../images/social-icon-rss-over.png') no-repeat;
 }
 
+.social-icon-gplus {
+    background: url('http://sites.hyip.world/base/images/icon/google+/g+42.png') no-repeat;
+    width: 42px;
+    height: 42px;
+    display: block;
+}
+
+a:hover .social-icon-gplus {
+    background: url('../images/social-icon-dribbble-over.png') no-repeat;
+}
+
 .social-icon-twitter {
     background: url('../images/social-icon-twitter.png') no-repeat;
     width: 42px;
