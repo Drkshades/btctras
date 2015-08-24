@@ -264,13 +264,13 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 .templatemo-team {
     background: url('../images/background.png') ; 
     font-family:  'Open Sans', sans-serif;
-    min-height:590px;
+    min-height: 590px;
     color:#ffffff;
 
 }
 .templatemo-line-header {
-    margin-top:100px;
-    margin-bottom:80px;
+    margin-top: 0px;
+    margin-bottom: 80px;
 }
 
 .member-thumb:hover .thumb-overlay {
@@ -305,7 +305,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 
 .team-inner {
-    margin-top:10px;
+    margin-top: 10px;
 }
 
 .team-inner-header {
@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 .team-inner-subtext {
     font-weight:normal;
-    font-size:12px;
+    font-size: 12px;
 }
 
 .row_team {
