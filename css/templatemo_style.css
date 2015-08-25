@@ -46,12 +46,6 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     background-color:#eeeeee;
 }
 
-#top-bar-share {
-    display:flex;
-    justify-content:center;
-    align-items:center;
-}
-
 .templatemo-top-menu .navbar-toggle {
     margin-top: 38px;
 }
