@@ -36,6 +36,13 @@ jQuery(function($) {
             return false;
         });
 
+        $('.templatemo-service a').click(function(e){
+            e.preventDefault(); 
+            var linkId = $(this).attr('href');
+            scrollTo(linkId);
+            return false;
+        });
+
         // to stick navbar on top
         $('.templatemo-top-menu ').stickUp();
 
