@@ -13,7 +13,7 @@ https://github.com/organizations/new
 Install Github from Windows, get it here:    
 https://windows.github.com/
 
-Select a free template, get it here:    
+Select a template, or use ours, get it FREE here:    
 http://www.templatemo.com/preview/templatemo_395_urbanic
 
 Create repository for the template: "YOUR-ORGANIZATION.github.io":     
