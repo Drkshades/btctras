@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 /* ------ Welcome & Slogna ------ */
 .templatemo-welcome {
     border-bottom: 1px solid #cccccc;
-    min-height: 230px;
+    min-height: 200px;
 }
 
 .templatemo-slogan {
