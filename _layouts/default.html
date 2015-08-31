@@ -515,15 +515,15 @@ http://www.templatemo.com/preview/templatemo_395_urbanic
                         <li class="col-lg-3 col-md-3 col-sm-6 ">
                             <div class="text-center">
                                 <div class="team-inner">
-                                    <p class="team-inner-header">OUR PROJECT</p>
-                                    <p class="team-inner-subtext">Open Source Project on GitHub</p>
+                                    <p class="team-inner-header">{{ page.team1_header }}</p>
+                                    <p class="team-inner-subtext">{{ page.team1_subtext }}</p>
                                 </div>
                                 <div class="member-thumb">
-                                    <div class="g-person" data-href="//plus.google.com/u/0/112119171116952507306" data-width="250" data-rel="publisher"></div>
+                                    <div class="{{ page.team1_dataclass }}" data-rel="{{ page.team1_datarel }}" data-href="{{ page.team1_datahref }}" data-width="250"></div>
                                     <div class="thumb-overlay">
-                                        <a href="https://www.facebook.com/hyipproject"><span class="social-icon-fb"></span></a>
-                                        <a href="#"><span class="social-icon-twitter"></span></a>
-                                        <a href="https://google.com/+hyipworldproject"><span class="social-icon-gplus"></span></a>
+                                        <a href="{{ page.team1_fb }}"><span class="social-icon-fb"></span></a>
+                                        <a href="{{ page.team1_twitter }}"><span class="social-icon-twitter"></span></a>
+                                        <a href="{{ page.team1_gplus }}"><span class="social-icon-gplus"></span></a>
                                     </div>
                                 </div>
                             </div>
