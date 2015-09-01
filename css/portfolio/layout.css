@@ -1,5 +1,5 @@
 @import url(http://weloveiconfonts.com/api/?family=fontawesome);
-section * nav {margin:0;padding:0;border: 0 none;position: relative;}
+section * {margin:0;padding:0;border: 0 none;position: relative;}
 [class*="fontawesome-"]:before {font-family: 'fontawesome', sans-serif;}
 
 section {
