@@ -28,3 +28,36 @@ article:before {
   bottom: 1rem;
   right: 1rem;
 }
+
+#profile:checked ~ nav [for='profile'],
+#settings:checked ~ nav [for='settings'],
+#posts:checked ~ nav [for='posts'],
+#books:checked ~ nav [for='books'] {
+  color: #1E6743;
+  font-weight: 600;
+}
+#settings:checked ~ nav [for='settings'] {}
+#profile:checked ~ nav [for='profile'] {}
+
+#profile:checked ~ nav:after {
+  left: 0;
+}
+#settings:checked ~ nav:after {
+  left:25%;
+  border-top: 0 none;
+}
+#posts:checked ~ nav:after {
+  left: 50%;
+}
+#books:checked ~ nav:after {
+  left: 75%;
+}
+
+#profile:checked ~ .uno,
+#settings:checked ~ .dos,
+#posts:checked ~ .tres,
+#books:checked ~ .cuatro {
+  display: block;
+  transform: scale(1);
+  transition-delay: .5s; 
+}
