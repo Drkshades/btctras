@@ -20,7 +20,7 @@ section > nav:after {
   width: 25%;
   height: 5rem;
   background: #BEE3D1;
-  position: relative;
+  position: absolute;
   transition: .5s;
 }
 section > nav > label {
