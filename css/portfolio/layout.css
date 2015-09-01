@@ -1,4 +1,5 @@
 @import url(http://weloveiconfonts.com/api/?family=fontawesome);
+* {margin:0;padding:0;border: 0 none;position: relative;}
 [class*="fontawesome-"]:before {font-family: 'fontawesome', sans-serif;}
 
 section {
@@ -29,7 +30,6 @@ section > nav > label {
   color: #BEE3D1;
   text-align: center;
   cursor: pointer;
-  position: relative;
   transition: .5s;
   z-index: 2;
 }
