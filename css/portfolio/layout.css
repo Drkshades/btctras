@@ -20,7 +20,7 @@ section > nav:after {
   width: 25%;
   height: 5rem;
   background: #BEE3D1;
-  position: absolute;
+  position: relative;
   transition: .5s;
 }
 section > nav > label {
@@ -38,6 +38,7 @@ section > nav > label:before {
   display: block;
   font-size: 3rem;
   line-height: 5rem;
+  position: relative;
   z-index: 2;
 }
 
