@@ -29,6 +29,10 @@ article:before {
   right: 1rem;
 }
 
+section > input {
+  display: none;
+}
+
 #profile:checked ~ nav [for='profile'],
 #settings:checked ~ nav [for='settings'],
 #posts:checked ~ nav [for='posts'],
