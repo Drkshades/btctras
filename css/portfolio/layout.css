@@ -3,6 +3,7 @@
 [class*="fontawesome-"]:before {font-family: 'fontawesome', sans-serif;}
 
 section {
+  width: 100vw;
   background: #31A66C;
   margin: 4rem auto;
   box-shadow: 0 0 6px rgba(0,0,0,.4);
