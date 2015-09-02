@@ -297,6 +297,10 @@ table {
           box-sizing: border-box;
 }
 
+section * {
+  margin: 0; padding: 0; border: 0 none; position: relative;
+}
+
 html {
   font-size: 62.5%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
