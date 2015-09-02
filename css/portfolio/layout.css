@@ -4,8 +4,9 @@
 
 section {
   width: 100vw;
-  background: #31A66C;
   margin: 4rem auto;
+  position: relative;
+  background: #31A66C;
   box-shadow: 0 0 6px rgba(0,0,0,.4);
 }
 section > input {
@@ -39,7 +40,6 @@ section > nav > label:before {
   display: block;
   font-size: 3rem;
   line-height: 5rem;
-  position: relative;
   z-index: 2;
 }
 
