@@ -65,33 +65,33 @@ article:before {
   right: 1rem;
 }
 
-#profile:checked ~ nav [for='profile'],
-#settings:checked ~ nav [for='settings'],
-#posts:checked ~ nav [for='posts'],
-#books:checked ~ nav [for='books'] {
+#thumb:checked ~ nav [for='thumb'],
+#post:checked ~ nav [for='post'],
+#list:checked ~ nav [for='list'],
+#data:checked ~ nav [for='data'] {
   color: #1E6743;
   font-weight: 600;
 }
-#settings:checked ~ nav [for='settings'] {}
-#profile:checked ~ nav [for='profile'] {}
+#post:checked ~ nav [for='post'] {}
+#thumb:checked ~ nav [for='thumb'] {}
 
-#profile:checked ~ nav:after {
+#thumb:checked ~ nav:after {
   left: 0;
 }
-#settings:checked ~ nav:after {
+#post:checked ~ nav:after {
   left:25%;
 }
-#posts:checked ~ nav:after {
+#list:checked ~ nav:after {
   left: 50%;
 }
-#books:checked ~ nav:after {
+#data:checked ~ nav:after {
   left: 75%;
 }
 
-#profile:checked ~ .uno,
-#settings:checked ~ .dos,
-#posts:checked ~ .tres,
-#books:checked ~ .cuatro {
+#thumb:checked ~ .api,
+#post:checked ~ .json,
+#list:checked ~ .rss,
+#data:checked ~ .xml {
   display: block;
   transform: scale(1);
   transition-delay: .5s; 
