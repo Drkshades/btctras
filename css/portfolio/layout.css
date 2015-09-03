@@ -80,7 +80,6 @@ article:before {
 }
 #settings:checked ~ nav:after {
   left:25%;
-  border-top: 0 none;
 }
 #posts:checked ~ nav:after {
   left: 50%;
