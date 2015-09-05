@@ -249,12 +249,12 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 }
 
 .team_hr_left {
-    margin-right: 30px;
-    margin-left: 15px; 
+    margin-right: 29px;
+    margin-left: 0px; 
 }
 
 .team_hr_right {
-    margin-left: 30px;
+    margin-left: 29px;
 }
 
 .hr_gray {
