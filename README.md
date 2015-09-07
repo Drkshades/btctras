@@ -36,6 +36,7 @@ Point your browser to:
 `https://YOUR-ORGANIZATION.github.io`
 
 Set up your custom domain follow this documentation:  
+https://help.github.com/articles/user-organization-and-project-pages/  
 https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
 http://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages
 
