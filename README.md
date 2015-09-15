@@ -1,6 +1,6 @@
 # Hyip World
 
-[![Gem Version](https://img.shields.io/gem/v/guard.svg?style=flat)](https://rubygems.org/gems/guard) [![Build Status](https://travis-ci.org/guard/guard.svg)](https://travis-ci.org/guard/guard) [![Dependency Status](https://gemnasium.com/guard/guard.png)](https://gemnasium.com/guard/guard) [![Code Climate](https://codeclimate.com/github/guard/guard/badges/gpa.svg)](https://codeclimate.com/github/guard/guard) [![Test Coverage](https://codeclimate.com/github/guard/guard/badges/coverage.svg)](https://codeclimate.com/github/guard/guard) [![Inline docs](http://inch-ci.org/github/guard/guard.svg)](http://inch-ci.org/github/guard/guard)
+[![Build Status](https://travis-ci.org/guard/guard.svg)](https://travis-ci.org/guard/guard) [![Dependency Status](https://gemnasium.com/guard/guard.png)](https://gemnasium.com/guard/guard) [![Code Climate](https://codeclimate.com/github/guard/guard/badges/gpa.svg)](https://codeclimate.com/github/guard/guard) [![Test Coverage](https://codeclimate.com/github/guard/guard/badges/coverage.svg)](https://codeclimate.com/github/guard/guard) [![Inline docs](http://inch-ci.org/github/guard/guard.svg)](http://inch-ci.org/github/guard/guard)
 
 We start our documentation by a tutorial how we start to get our site up and running on Github.
 
