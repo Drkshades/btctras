@@ -39,7 +39,7 @@ Set up your custom domain follow this documentation:
 https://help.github.com/articles/user-organization-and-project-pages/  
 https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
 
-You can use the same domain for your project pages, turn Jekyll off if necessary: 
+You can use the same domain for your project pages, turn Jekyll off if necessary:   
 https://help.github.com/articles/using-jekyll-with-pages#troubleshooting
 https://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages
 
