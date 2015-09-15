@@ -45,9 +45,10 @@ You are done..
 
 
 Here is the URL to point to our site:    
-http://hyipworld.github.io/    
-http://www.hyip.world/    
-http://hyip.world/  
+
+    http://hyipworld.github.io/   
+    http://www.hyip.world/    
+    http://hyip.world/
 
 See more details about Github & Jeckyll here:  
 Github Repository of Jeckyll: https://github.com/mojombo/tpw  
