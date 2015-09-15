@@ -44,7 +44,7 @@ http://stackoverflow.com/questions/9082499/custom-domain-for-github-project-page
 You are done..    
 
 
-Here is the URL to point to our site:    
+Here are the URLs to point to our site:    
 
     http://hyipworld.github.io/   
     http://www.hyip.world/    
