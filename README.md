@@ -38,10 +38,10 @@ Point your browser to:
 Set up your custom domain follow this documentation:  
 https://help.github.com/articles/user-organization-and-project-pages/  
 https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
-https://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages
 
-You can completely opt out of Jekyll processing by creating a file named `.nojekyll` in the root of your Page repository and pushing that file to GitHub.  
+You can use the same domain for your project pages, turn Jekyll off if necessary: 
 https://help.github.com/articles/using-jekyll-with-pages#troubleshooting
+https://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages
 
 You are done..    
 
