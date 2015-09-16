@@ -52,7 +52,7 @@ Here are the URLs to point to our site:
     http://www.hyip.world/    
     http://hyip.world/
 
-Here are the URLs to point to our forked projects: 
+Here are the URLs to point to our [forked projects](https://github.com/search?utf8=%E2%9C%93&q=%40hyip+fork%3Aonly+user%3Ahyipworld+fork%3Aonly&type=Repositories&ref=advsearch&s=updated): 
 
     http://hyip.world/GoJS
     http://hyip.world/js-sequence-diagrams
