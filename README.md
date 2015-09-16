@@ -52,6 +52,13 @@ Here are the URLs to point to our site:
     http://www.hyip.world/    
     http://hyip.world/
 
+Here are the URLs to point to our forked projects: 
+
+    http://hyip.world/GoJS
+    http://hyip.world/js-sequence-diagrams
+    http://hyip.world/railroad-diagrams/generator.html
+
+
 See more details about Github & Jeckyll here:  
 Github Repository of Jeckyll: https://github.com/mojombo/tpw  
 Setup GitHub Pages branchs: https://gist.github.com/chrisjacob/833223  
