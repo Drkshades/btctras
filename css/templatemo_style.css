@@ -319,6 +319,14 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     font-size:16px;
 }
 
+.team-inner-header > a{
+    color:#fff
+}
+	
+.team-inner-header > a:hover{
+    color:#fff
+}
+	
 .team-inner-subtext {
     font-weight:normal;
     font-size: 12px;
