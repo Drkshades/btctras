@@ -191,6 +191,20 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     color:#ffffff;
 }
 
+.btn-blue {
+    background-color:#00aced;
+    border-bottom:2px solid #0093d4;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    color:#ffffff;
+}
+
+.btn-blue:hover, .btn-blue:focus, .btn-blue:active, .btn-blue.active, .open .dropdown-toggle.btn-green {
+    background-color: #0093d4;
+    color:#ffffff;
+}
+
 .nav > li > a {
     padding: 10px 20px;
 }
