@@ -593,9 +593,10 @@ ul.templatemo-project-gallery  li  a img:hover {
 	text-decoration:none;
 }
 
-.link_orange:hover {
+.link_orange:hover, .link_blue:hover {
     text-decoration:none;
 }
+
 .templatemo-project-gallery {         
     margin:0 0 0 0;
     margin-top: 16px;
