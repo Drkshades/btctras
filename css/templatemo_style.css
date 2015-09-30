@@ -139,6 +139,10 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     margin-bottom: 50px;
 }
 
+.templatemo-service a:hover {
+    text-decoration:none;
+}
+
 .templatemo-service-item {
     font-family:  'Open Sans', sans-serif;
     margin-bottom: 10px;
@@ -593,7 +597,12 @@ ul.templatemo-project-gallery  li  a img:hover {
 	text-decoration:none;
 }
 
-.link_orange:hover, .link_blue:hover, .link_darkgrey:hover {
+.link_orange:hover, .link_blue:hover {
+    text-decoration:none;
+}
+
+.link_darkgrey:hover {
+    color:#000; 
     text-decoration:none;
 }
 
