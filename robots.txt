@@ -1,2 +1,6 @@
 User-Agent: *
 Disallow: /GoJS/*
+Disallow: /beta/*
+Disallow: /intro/*
+Disallow: /samples/*
+Disallow: /extensions/*
