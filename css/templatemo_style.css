@@ -330,6 +330,14 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     margin-top: 10px;
 }
 
+.team-inner > a{
+    color:#fff
+}
+	
+.team-inner > a:hover{
+    color:#fff
+}
+	
 .team-inner-header {
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
@@ -337,14 +345,6 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     font-size:16px;
 }
 
-.team-inner-header > a{
-    color:#fff
-}
-	
-.team-inner-header > a:hover{
-    color:#fff
-}
-	
 .team-inner-subtext {
     font-weight:normal;
     font-size: 12px;
