@@ -330,11 +330,11 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     margin-top: 10px;
 }
 
-.team-inner > a{
+.team-inner > p > a{
     color:#fff
 }
 	
-.team-inner > a:hover{
+.team-inner > p > a:hover{
     color:#fff
 }
 	
