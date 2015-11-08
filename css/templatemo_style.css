@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 /* ------ Carousel ----- */
 
 #templatemo-carousel {
-    background: url('http://sites.hyip.world/base/images/background/tophyip.jpg') no-repeat center center fixed; 
+    background: url('https://tophyipmonitor.files.wordpress.com/2015/10/comexbrokerage-com.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 @media (max-width: 1024px) {
     #templatemo-carousel {
-        background: url('http://sites.hyip.world/base/images/background/tophyip.jpg') no-repeat center center; 
+        background: url('https://tophyipmonitor.files.wordpress.com/2015/10/comexbrokerage-com.jpg') no-repeat center center; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
