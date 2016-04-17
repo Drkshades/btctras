@@ -57,7 +57,7 @@ Here are the URLs to point to our site:
 
 Here are the URLs as samples that pointing to our [forked projects](https://github.com/search?utf8=%E2%9C%93&q=%40hyip+fork%3Aonly+user%3Ahyipworld+fork%3Aonly&type=Repositories&ref=advsearch&s=updated): 
 
-    http://hyip.world/GoJS
+    http://hyip.world/maps
     http://hyip.world/js-sequence-diagrams
     http://hyip.world/railroad-diagrams/generator.html
 
