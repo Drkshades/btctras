@@ -77,6 +77,10 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     z-index: 10;
 }
 
+#templatemo-carousel .carousel-uppercase {
+    text-transform: uppercase;
+}
+
 #templatemo-carousel .item {
     height: 500px;
 }
